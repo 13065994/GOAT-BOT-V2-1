@@ -1,22 +1,4 @@
 {
-  "0": "U",
-  "1": "p",
-  "2": "d",
-  "3": "a",
-  "4": "t",
-  "5": "e",
-  "6": " ",
-  "7": "c",
-  "8": "o",
-  "9": "n",
-  "10": "f",
-  "11": "i",
-  "12": "g",
-  "13": ".",
-  "14": "j",
-  "15": "s",
-  "16": "o",
-  "17": "n",
   "facebookAccount": {
     "email": "",
     "password": "",
@@ -35,30 +17,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
+  "nickNameBot": "》?《 𖣘➣ 𝑴𝑨𝑻𝑬㋡ - 𝑪𝑯𝑨𝑻𝑩㋞𝑻࿐",
   "prefix": "?",
-  "BaYjidapi": "https://bayjid-hd.onrender.com",
-  "api": "",
-  "api2": "",
-  "api3": "",
-  "authorName": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "ewrbiju@gmail.com",
-  "replit": "https://replit.com/@BAYJID-XD",
-  "github": "https://github.com/BAYJID404",
-  "insta": "mr_bayjid120",
-  "age": "17+",
-  "TG": "@MOHAMMADBAYJID",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -66,7 +35,7 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Africa/Lagos",
   "credentials": {
     "gmailAccount": {
       "email": "",
